@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blob-preview-card-sR0dOwfwsR)
-- Live Site URL: [Live](https://blob-preview-card.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-preview-component-card-umQ4SdfstD)
+- Live Site URL: [Live](https://effortless-kringle-74e8a5.netlify.app/)
 
 ## My process
 Used picture and source elements in html to switch the images between desktop and mobile. Media queries with flex to handle the layouts for responsiveness.
